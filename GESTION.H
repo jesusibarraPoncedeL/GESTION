@@ -1,0 +1,18 @@
+*- [CONVERTER] gestion.h*- [CONVERTER] Archivo de encabezado para gestion.scx#DEFINE C_DBFEMPTY  'Database is empty, add a record?'
+#DEFINE C_EDITS   'Please finish your edits.'
+#DEFINE C_TOPFILE  'Top of file.'
+#DEFINE C_ENDFILE  'End of file.'
+#DEFINE C_BRTITLE  'Locate Record'
+#DEFINE C_NOLOCK  'Sorry, could not lock record -- try again later.'
+#DEFINE C_ECANCEL  'Edits Canceled.'
+#DEFINE C_DELREC  'Delete selected record?'
+#DEFINE C_NOFEAT  'Feature not available yet.'
+#DEFINE C_NOWIZ   'Wizard application is not available.'
+#DEFINE C_MAKEREPO  'Creating report with Report Wizard.'
+#DEFINE C_NOREPO  'Could not create report.'
+#DEFINE C_DELNOTE   'Deleting records...'
+#DEFINE C_READONLY   'Table is read-only. No editing allowed.'
+#DEFINE C_NOTABLE   'No table selected. Open table or run query.'
+#DEFINE C_BADEXPR  'Invalid expression.'
+#DEFINE C_LOCWIZ  'Locate WIZARD.APP:'
+#DEFINE C_MULTITABLE 'You have multiple related tables. Adding records in not allowed.'
