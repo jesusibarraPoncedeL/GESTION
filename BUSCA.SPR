@@ -1,0 +1,5 @@
+*- [CONVERTER] Declarar variables para punteros de registroPUBLIC _iconvGestionGoToPlaceHolder
+
+EXTERNAL PROC busca.scx
+
+DO FORM "busca.scx" NAME _62D0OL4MX LINKED 
