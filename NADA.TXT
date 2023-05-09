@@ -1,0 +1,32 @@
+
+Structure for table:          g:\gest15\tmpimp.dbf
+Number of data records:       0       
+Date of last update:            23/02/1900
+Memo file block size:         64
+Code Page:                     0
+   Field   Field Name         Type                 Width        Dec       Index    Collate
+       1   DE                 Character               80                           
+       2   PARA               Character               80                           
+       3   AREADE             Character               80                           
+       4   AREAP              Character               80                           
+       5   ASUNTO             Character               80                           
+       6   RESUMEN            Memo                    10                           
+       7   STATUS             Character               15                           
+       8   TURNADO            Character               15                           
+       9   FOLIO_A            Character                6                           
+      10   FINREC             Date                     8                           
+      11   FCONCLU            Date                     8                           
+      12   HORA               Character                5                           
+      13   INSTRUC_A          Character               15                           
+      14   TIPO               Character               20                           
+      15   NOOF               Character               15                           
+      16   COPIAS             Character              250                           
+      17   FOLIO_B            Character                6                           
+      18   CVEAREA            Character                6                           
+      19   STTUR              Character                1                           
+      20   FECTUR             Date                     8                           
+      21   INSTRUC_B          Memo                    10                           
+      22   REFERENCIA         Character               30                           
+      23   OBSERV             Memo                    10                           
+      24   ORDEN              Character                1                           
+** Total **                                          840
